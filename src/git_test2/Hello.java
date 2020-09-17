@@ -1,7 +1,7 @@
 package git_test2;
 
 public class Hello {
-	String message = "¾È³çÇÏ¼¼¿ä";
+	String message = "ì•ˆë…•í•˜ì„¸ìš”";
 
     public void say() {
         System.out.println(message);
