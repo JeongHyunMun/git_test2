@@ -6,5 +6,4 @@ public class Main {
     	Hello hello = new Hello("hello world");
     	System.out.println(hello.say());
     }
-
 }
